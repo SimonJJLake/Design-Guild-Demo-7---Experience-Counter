@@ -11,6 +11,7 @@ const experienceValues: ExperienceValue[] = [
   { name: "Typescript", years: 1.5 },
   { name: "Python", years: 8.4 },
   { name: "NextJS", years: 2.3 },
+  { name: "NestJS", years: 2.3 },
 ];
 
 function App() {
